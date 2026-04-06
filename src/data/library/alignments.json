@@ -1,0 +1,54 @@
+{
+    "alignments": [
+    {
+        "id": "lawful_good",
+        "name": "守序善良（Lawful Good, LG）",
+        "description": "遵守社会或自身誓约/准则，并积极行善、保护无辜、对抗不义。"
+    },
+    {
+        "id": "neutral_good",
+        "name": "中立善良（Neutral Good, NG）",
+        "description": "以行善为首要目标；愿意在规则内行事，但不会被规则束缚到放弃“做正确的事”。"
+    },
+    {
+        "id": "chaotic_good",
+        "name": "混乱善良（Chaotic Good, CG）",
+        "description": "依良知行事，不太在意权威或社会期待；常用非正统手段对抗压迫、帮助弱者。"
+    },
+    {
+        "id": "lawful_neutral",
+        "name": "守序中立（Lawful Neutral, LN）",
+        "description": "重视秩序、传统、纪律或个人准则；不特别偏向善或恶，更在乎“按规矩/按原则办”。"
+    },
+    {
+        "id": "neutral",
+        "name": "中立（Neutral, N）",
+        "description": "倾向回避道德立场争论，不轻易选边；常按当下认为“最合适/最省事/最现实”的方式行事。"
+    },
+    {
+        "id": "chaotic_neutral",
+        "name": "混乱中立（Chaotic Neutral, CN）",
+        "description": "重视个人自由与当下选择，较少受规矩约束；善恶通常排在“我想怎么做”之后。"
+    },
+    {
+        "id": "lawful_evil",
+        "name": "守序邪恶（Lawful Evil, LE）",
+        "description": "以制度、契约、传统或组织纪律为工具来谋取利益与权力；常“按规则行恶”。"
+    },
+    {
+        "id": "neutral_evil",
+        "name": "中立邪恶（Neutral Evil, NE）",
+        "description": "为了欲望与利益可以伤害他人而无愧疚；不特别崇尚秩序或混乱，只看是否划算。"
+    },
+    {
+        "id": "chaotic_evil",
+        "name": "混乱邪恶（Chaotic Evil, CE）",
+        "description": "以憎恨、暴力或破坏冲动驱动，蔑视规则与生命；常把制造混乱与恐惧当作目的本身。"
+    },
+    {
+        "id": "unaligned",
+        "name": "无阵营（Unaligned）",
+        "description": "缺乏理性道德判断能力、主要凭本能行动的生物（常见于许多野兽）。"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "damage_types": [
+    {
+        "id": "acid",
+        "name": "酸蚀 (Acid)",
+        "description": "腐蚀性魂力、消化酶或毒性液滴造成的溶解性伤害。"
+    },
+    {
+        "id": "bludgeoning",
+        "name": "钝击 (Bludgeoning)",
+        "description": "重型武魂、撞击、坠落或绞压造成的物理冲击。"
+    },
+    {
+        "id": "cold",
+        "name": "寒冷 (Cold)",
+        "description": "冰系魂技、极寒环境造成的冻结与机能迟滞伤害。"
+    },
+    {
+        "id": "fire",
+        "name": "火焰 (Fire)",
+        "description": "火系魂技、爆炸或高温魂力灼烧造成的热能伤害。"
+    },
+    {
+        "id": "soul_force",
+        "name": "魂力/力场 (Soul-Force)",
+        "description": "纯粹的魂力爆发、冲击波或无属性魂力实体化造成的能量伤害。"
+    },
+    {
+        "id": "lightning",
+        "name": "闪电 (Lightning)",
+        "description": "雷电系武魂、电流传导及麻痹性电击造成的伤害。"
+    },
+    {
+        "id": "necrotic",
+        "name": "黯蚀 (Necrotic)",
+        "description": "邪魂师、生命吸取类魂技或凋零性能量造成的本源损耗。"
+    },
+    {
+        "id": "piercing",
+        "name": "穿刺 (Piercing)",
+        "description": "尖刺类武魂、獠牙、箭矢或点对点魂力贯穿造成的伤害。"
+    },
+    {
+        "id": "poison",
+        "name": "毒素 (Poison)",
+        "description": "神经毒素、血液毒素或致命毒气造成的持续性机能破坏。"
+    },
+    {
+        "id": "psychic",
+        "name": "精神 (Psychic)",
+        "description": "精神冲击、幻术干扰或灵魂位阶压制造成的识海伤害。"
+    },
+    {
+        "id": "radiant",
+        "name": "光耀 (Radiant)",
+        "description": "神圣属性、净化之光或剧烈辐照造成的破邪与灼烧伤害。"
+    },
+    {
+        "id": "slashing",
+        "name": "挥砍 (Slashing)",
+        "description": "利刃类武魂、爪击或风刃等切割性攻击造成的裂口伤害。"
+    },
+    {
+        "id": "thunder",
+        "name": "雷鸣/声波 (Thunder)",
+        "description": "震荡性声波、轰鸣爆震导致的内脏与听觉损伤。"
+    }
+  ]
+}
