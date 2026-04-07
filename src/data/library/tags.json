@@ -1,0 +1,69 @@
+{
+  "substances": [
+    { "id": "flesh", "name": "肉体/血肉" },
+    { "id": "vine", "name": "藤蔓/植物纤维" },
+    { "id": "bone", "name": "骨质" },
+    { "id": "steel", "name": "钢铁" },
+    { "id": "adamantine", "name": "精金/坚不可摧" },
+    { "id": "water", "name": "水流" },
+    { "id": "mist", "name": "浓雾/烟尘" },
+    { "id": "ice", "name": "冰晶" },
+    { "id": "gem", "name": "宝石/晶体" },
+    { "id": "void_crack", "name": "空间裂缝" },
+    { "id": "soul_flame", "name": "灵魂之火" }
+  ],
+  "energies": [
+    { "id": "resonance", "name": "谐振" },
+    { "id": "lightning", "name": "雷电" },
+    { "id": "fire", "name": "火焰" },
+    { "id": "purify", "name": "净化/神圣" },
+    { "id": "neurotoxin", "name": "神经毒素" },
+    { "id": "shock", "name": "精神震慑" },
+    { "id": "hallucination", "name": "幻觉/识海干扰" }
+  ],
+  "behaviors": [
+    { "id": "ray", "name": "射线/光束" },
+    { "id": "barrage", "name": "弹幕/投射" },
+    { "id": "wrap", "name": "包裹/缠绕" },
+    { "id": "shackle", "name": "枷锁/束缚" },
+    { "id": "domain", "name": "领域/场域" },
+    { "id": "gravity", "name": "重力/引力" },
+    { "id": "blink", "name": "闪烁/瞬间移动" },
+    { "id": "stealth", "name": "潜行/隐匿" }
+  ],
+  "beasts": [
+    { "id": "feline", "name": "猫科/犬科" },
+    { "id": "avian", "name": "禽类/鸟类" },
+    { "id": "reptilian", "name": "爬行类/龙蛇" },
+    { "id": "arachnid", "name": "节肢类/昆虫" },
+    { "id": "ursine", "name": "熊类/重型兽" },
+    { "id": "aquatic", "name": "水生/深海" }
+  ],
+  "apparatus": [
+    { "id": "blade", "name": "刃器" },
+    { "id": "blunt", "name": "钝器" },
+    { "id": "polearm", "name": "长兵器" },
+    { "id": "vessel", "name": "容器/辅助具" },
+    { "id": "mechanism", "name": "机关/器械" }
+  ],
+  "anatomy_parts": [
+    { "id": "claw", "name": "利爪" },
+    { "id": "fang", "name": "尖牙" },
+    { "id": "vertical_pupil", "name": "竖瞳" },
+    { "id": "wing", "name": "羽翼" },
+    { "id": "talon", "name": "钩爪" },
+    { "id": "scale", "name": "鳞片" },
+    { "id": "venom_gland", "name": "毒腺" },
+    { "id": "multi_limb", "name": "多肢/节肢" },
+    { "id": "exoskeleton", "name": "外骨骼" },
+    { "id": "thick_paw", "name": "厚掌" },
+    { "id": "roar", "name": "咆哮/声波" },
+    { "id": "tentacle", "name": "触须" },
+    { "id": "edge", "name": "刃口/锋芒" },
+    { "id": "point", "name": "尖端/穿刺点" },
+    { "id": "head", "name": "锤头/重型端" },
+    { "id": "surface", "name": "打击面/盾面" },
+    { "id": "vessel_core", "name": "器心/容纳空间" },
+    { "id": "string", "name": "弦/拉力" }
+  ]
+}

@@ -10,7 +10,7 @@
       "id": "DEX",
       "name": "敏捷 (Dexterity)",
       "description": "身体协调性、反应速度与时空位移能力。影响先攻权、远程命中率及对范围魂技的闪避。",
-      "sub_dimensions": ["闪避", "位移时速", "肢体灵活性"]
+      "sub_dimensions": ["位移时速", "肢体灵活性"]
     },
     {
       "id": "CON",
