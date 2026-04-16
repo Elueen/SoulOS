@@ -1,0 +1,92 @@
+[
+  {
+    "id": "T_LOGIC_RECT_CONTROL",
+    "name": "地生缠绕",
+    "meta": {
+      "level": "1st",
+      "casting_time": "1 Action",
+      "range_area": "60 ft. (20 ft. Square)",
+      "duration": "1 Minute (Concentration)",
+      "attack_save": "STR Save",
+      "damage": { "dice": "1d6", "type": "poison" }
+    },
+    "compatible_tags": ["entangle", "wrap", "vine", "tentacle", "shackle"],
+    "description_raw": "驱动介质从地表蔓延并物理束缚目标，造成持续挤压或毒素渗入。",
+    "upcharge": "每阶DC+1，伤害+1d6。"
+  },
+  {
+    "id": "T_LOGIC_SELF_SHIELD",
+    "name": "护身屏障",
+    "meta": {
+      "level": "1st",
+      "casting_time": "1 Bonus Action",
+      "range_area": "Self",
+      "duration": "1 Minute",
+      "attack_save": "None",
+      "damage": { "dice": "None", "type": "force" }
+    },
+    "compatible_tags": ["exoskeleton", "scale", "surface", "aura", "shield_item"],
+    "description_raw": "魂力在周身凝结防护层，提升AC并提供抵消伤害的临时生命值。",
+    "upcharge": "每阶临时生命值+10。"
+  },
+  {
+    "id": "T_LOGIC_LINE_BURST",
+    "name": "直线喷涌",
+    "meta": {
+      "level": "1st",
+      "casting_time": "1 Action",
+      "range_area": "30 ft. Line",
+      "duration": "Instantaneous",
+      "attack_save": "DEX Save",
+      "damage": { "dice": "3d6", "type": "fire" }
+    },
+    "compatible_tags": ["shoot", "ray", "throat", "point", "beak"],
+    "description_raw": "从武魂焦点处线性释放压缩能量，对路径目标造成属性爆发伤害。",
+    "upcharge": "每阶射程+10 ft.，伤害+1d6。"
+  },
+  {
+    "id": "T_LOGIC_DASH_STRIKE",
+    "name": "幽冥掠击",
+    "meta": {
+      "level": "1st",
+      "casting_time": "1 Action",
+      "range_area": "15 ft. Dash & Melee",
+      "duration": "Instantaneous",
+      "attack_save": "Melee Attack",
+      "damage": { "dice": "2d4 + Mod", "type": "slash" }
+    },
+    "compatible_tags": ["dash", "claw", "edge", "feline", "canine"],
+    "description_raw": "瞬间爆发位移并利用武魂锋利部位对目标执行一次快速切割。",
+    "upcharge": "每阶位移+5 ft.，伤害+1d4。"
+  },
+  {
+    "id": "T_LOGIC_PRODUCED_ITEM",
+    "name": "具现补给",
+    "meta": {
+      "level": "1st",
+      "casting_time": "1 Action",
+      "range_area": "Touch",
+      "duration": "Instantaneous",
+      "attack_save": "None",
+      "damage": { "dice": "1d8 + Mod", "type": "force" }
+    },
+    "compatible_tags": ["vessel", "food_pack", "hollow", "heal"],
+    "description_raw": "具现出可消耗的魂力实体，食用后提供生命或魂力恢复。",
+    "upcharge": "每阶恢复量+1d8。"
+  },
+  {
+    "id": "T_LOGIC_MULTI_BUFF",
+    "name": "魂力引导",
+    "meta": {
+      "level": "1st",
+      "casting_time": "1 Action",
+      "range_area": "30 ft. (3 Targets)",
+      "duration": "1 Minute (Concentration)",
+      "attack_save": "None",
+      "damage": { "dice": "None", "type": "radiant" }
+    },
+    "compatible_tags": ["support", "light", "tower", "halo", "bell"],
+    "description_raw": "通过武魂持续向友军传输增益能量，提升其特定战斗属性。",
+    "upcharge": "每阶目标数+1，或增益骰阶位提升。"
+  }
+]

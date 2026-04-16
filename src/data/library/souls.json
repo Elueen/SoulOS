@@ -1,0 +1,32 @@
+[
+  {
+    "id": "S0001",
+    "name": "暗鸦",
+    "category": "Apparatus",
+    "tags": [
+      "steel",
+      "sword",
+      "pierce",
+      "slash",
+      "thunder"
+    ],
+    "description": "唐横刀。刀身笔直修长，色泽内敛如墨，不反任何天光。唯有在魂力催动下，刀刃才会发出一声低沉的律动鸣响。",
+    "passives": [
+      "high_freq_vibration"
+    ],
+    "true_form": {
+      "name": "暗鸦真身",
+      "description": "暗鸦化为一道玄黑的长虹，刀身延伸至十米，挥动间自带雷鸣领域，所有攻击附带大范围声波震荡。",
+      "boost_effect": "所有技能威力提升100%，雷鸣伤害额外提升200%"
+    },
+    "actions": [
+      {
+        "name": "挥砍",
+        "range": "5",
+        "hit": "5",
+        "damage": "1d8 + STR(Slashing)",
+        "notes": "教科书般的横向挥砍，利用刀刃锋芒造成标准的挥砍 (Slashing) 伤害。"
+      }
+    ]
+  }
+]

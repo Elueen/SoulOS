@@ -1,0 +1,289 @@
+[
+  {
+    "id": "res_acid_small",
+    "name": "酸蚀抗性 (小)",
+    "type": "resistance",
+    "value": "acid +25%",
+    "description": "武魂表面具备一层基础的防腐蚀层，能够中和部分酸性物质，减少 25% 的酸蚀伤害。"
+  },
+  {
+    "id": "res_acid_large",
+    "name": "酸蚀抗性 (大)",
+    "type": "resistance",
+    "value": "acid +50%",
+    "description": "武魂结构经过抗酸强化处理，能极大地抵御强酸的溶解作用，减少 50% 的酸蚀伤害。"
+  },
+  {
+    "id": "weak_acid",
+    "name": "酸蚀属性弱点",
+    "type": "resistance",
+    "value": "acid -25%",
+    "description": "武魂材质极易被化学溶剂破坏，一旦接触酸性物质将迅速溶解，受到的酸蚀伤害增加 25%。"
+  },
+  {
+    "id": "res_bludgeoning_small",
+    "name": "钝击抗性 (小)",
+    "type": "resistance",
+    "value": "bludgeoning +25%",
+    "description": "武魂具备一定的物理缓冲结构，能吸收初级强度的撞击力，减少 25% 的钝击伤害。"
+  },
+  {
+    "id": "res_bludgeoning_large",
+    "name": "钝击抗性 (大)",
+    "type": "resistance",
+    "value": "bludgeoning +50%",
+    "description": "武魂构造稳固且充满弹性，能够抵御剧烈的冲击与挤压，有效减少 50% 的钝击伤害。"
+  },
+  {
+    "id": "weak_bludgeoning",
+    "name": "钝击属性弱点",
+    "type": "resistance",
+    "value": "bludgeoning -25%",
+    "description": "武魂结构脆性较高，无法承受重压或强力撞击，受到的钝击伤害将增加 25%。"
+  },
+  {
+    "id": "res_cold_small",
+    "name": "寒冷抗性 (小)",
+    "type": "resistance",
+    "value": "cold +25%",
+    "description": "武魂内部循环具备基础的保温能力，能延缓机能被冻结的速度，减少 25% 的寒冷伤害。"
+  },
+  {
+    "id": "res_cold_large",
+    "name": "寒冷抗性 (大)",
+    "type": "resistance",
+    "value": "cold +50%",
+    "description": "武魂对低温环境有着极强的适应性，即使在极寒之下也能保持机能活跃，减少 50% 的寒冷伤害。"
+  },
+  {
+    "id": "weak_cold",
+    "name": "寒冷属性弱点",
+    "type": "resistance",
+    "value": "cold -25%",
+    "description": "武魂缺乏应对低温的保护机制，严寒会导致其机能迅速停滞，受到的寒冷伤害增加 25%。"
+  },
+  {
+    "id": "res_fire_small",
+    "name": "火焰抗性 (小)",
+    "type": "resistance",
+    "value": "fire +25%",
+    "description": "武魂表层覆盖着轻微的耐热涂层，能够抵御普通火焰的灼烧，减少 25% 的火焰伤害。"
+  },
+  {
+    "id": "res_fire_large",
+    "name": "火焰抗性 (大)",
+    "type": "resistance",
+    "value": "fire +50%",
+    "description": "武魂具备深厚的热能屏障，极大提升了耐高温上限，能够有效抵消 50% 的火焰伤害。"
+  },
+  {
+    "id": "weak_fire",
+    "name": "火焰属性弱点",
+    "type": "resistance",
+    "value": "fire -25%",
+    "description": "由于武魂构造包含易燃物质，对高温热源极度敏感，受到的火焰伤害将增加 25%。"
+  },
+  {
+    "id": "res_force_small",
+    "name": "力场抗性 (小)",
+    "type": "resistance",
+    "value": "force +25%",
+    "description": "武魂周身环绕着微弱的能量干扰场，能抵消基础的魂力冲击，减少 25% 的力场伤害。"
+  },
+  {
+    "id": "res_force_large",
+    "name": "力场抗性 (大)",
+    "type": "resistance",
+    "value": "force +50%",
+    "description": "武魂具备高度稳定的能量排斥层，能够硬扛纯粹的魂力爆发，有效减少 50% 的力场伤害。"
+  },
+  {
+    "id": "weak_force",
+    "name": "力场属性弱点",
+    "type": "resistance",
+    "value": "force -25%",
+    "description": "武魂本身的魂力结构不够稳定，极易受到外部能量波动的冲击，受到的力场伤害将增加 25%。"
+  },
+  {
+    "id": "res_lightning_small",
+    "name": "闪电抗性 (小)",
+    "type": "resistance",
+    "value": "lightning +25%",
+    "description": "武魂具备初步的电荷绝缘能力，能防止电流在体表过度扩散，减少 25% 的闪电伤害。"
+  },
+  {
+    "id": "res_lightning_large",
+    "name": "闪电抗性 (大)",
+    "type": "resistance",
+    "value": "lightning +50%",
+    "description": "武魂能够引导并疏散强大的高压电流，大幅度降低麻痹与灼穿风险，减少 50% 的闪电伤害。"
+  },
+  {
+    "id": "weak_lightning",
+    "name": "闪电属性弱点",
+    "type": "resistance",
+    "value": "lightning -25%",
+    "description": "武魂材质具备高度导电性，电击会瞬间穿透全身核心，受到的闪电伤害将增加 25%。"
+  },
+  {
+    "id": "res_necrotic_small",
+    "name": "黯蚀抗性 (小)",
+    "type": "resistance",
+    "value": "necrotic +25%",
+    "description": "武魂具备微弱的生命本源守护力，能延缓凋零能量的侵蚀速度，减少 25% 的黯蚀伤害。"
+  },
+  {
+    "id": "res_necrotic_large",
+    "name": "黯蚀抗性 (大)",
+    "type": "resistance",
+    "value": "necrotic +50%",
+    "description": "武魂生机极度旺盛且具备强大的排异性，能有效阻断腐败能量的渗透，减少 50% 的黯蚀伤害。"
+  },
+  {
+    "id": "weak_necrotic",
+    "name": "黯蚀属性弱点",
+    "type": "resistance",
+    "value": "necrotic -25%",
+    "description": "武魂生命本源较易受到阴冷能量的干预，本源流失速度较快，受到的黯蚀伤害增加 25%。"
+  },
+  {
+    "id": "res_piercing_small",
+    "name": "穿刺抗性 (小)",
+    "type": "resistance",
+    "value": "piercing +25%",
+    "description": "武魂表皮具备基础的抗贯穿韧性，能偏移部分尖锐攻击的方向，减少 25% 的穿刺伤害。"
+  },
+  {
+    "id": "res_piercing_large",
+    "name": "穿刺抗性 (大)",
+    "type": "resistance",
+    "value": "piercing +50%",
+    "description": "武魂具备极高密度的防御层，能够硬接绝大部分的点状穿透攻击，有效减少 50% 的穿刺伤害。"
+  },
+  {
+    "id": "weak_piercing",
+    "name": "穿刺属性弱点",
+    "type": "resistance",
+    "value": "piercing -25%",
+    "description": "武魂构造中存在明显的受力薄弱点，极易被精准打击贯穿，受到的穿刺伤害将增加 25%。"
+  },
+  {
+    "id": "res_poison_small",
+    "name": "毒素抗性 (小)",
+    "type": "resistance",
+    "value": "poison +25%",
+    "description": "武魂循环系统具备基础的毒素过滤能力，能削弱有害物质的影响，减少 25% 的毒素伤害。"
+  },
+  {
+    "id": "res_poison_large",
+    "name": "毒素抗性 (大)",
+    "type": "resistance",
+    "value": "poison +50%",
+    "description": "武魂具备强大的免疫净化机制，能迅速中和绝大部分生物毒素，减少 50% 的毒素伤害。"
+  },
+  {
+    "id": "weak_poison",
+    "name": "毒素属性弱点",
+    "type": "resistance",
+    "value": "poison -25%",
+    "description": "武魂生理构造极易与有害毒性产生连锁反应，机能衰退极快，受到的毒素伤害增加 25%。"
+  },
+  {
+    "id": "res_psychic_small",
+    "name": "心灵抗性 (小)",
+    "type": "resistance",
+    "value": "psychic +25%",
+    "description": "武魂具备基础的心灵屏障，能够抵御初级层面的识海冲击，减少 25% 的心灵伤害。"
+  },
+  {
+    "id": "res_psychic_large",
+    "name": "心灵抗性 (大)",
+    "type": "resistance",
+    "value": "psychic +50%",
+    "description": "武魂识海极其坚固且具备心灵韧性，能够无视绝大部分幻术与心灵压制，减少 50% 的心灵伤害。"
+  },
+  {
+    "id": "weak_psychic",
+    "name": "心灵属性弱点",
+    "type": "resistance",
+    "value": "psychic -25%",
+    "description": "武魂识海波动不稳定，极易受到外部意志的干扰与震慑，受到的心灵伤害将增加 25%。"
+  },
+  {
+    "id": "res_radiant_small",
+    "name": "光耀抗性 (小)",
+    "type": "resistance",
+    "value": "radiant +25%",
+    "description": "武魂表层具备微弱的折射能力，能抵御基础的辐射灼烧，减少 25% 的光耀伤害。"
+  },
+  {
+    "id": "res_radiant_large",
+    "name": "光耀抗性 (大)",
+    "type": "resistance",
+    "value": "radiant +50%",
+    "description": "武魂能够吸收并同化高强度的神圣光芒，有效保护机能免遭净化，减少 50% 的光耀伤害。"
+  },
+  {
+    "id": "weak_radiant",
+    "name": "光耀属性弱点",
+    "type": "resistance",
+    "value": "radiant -25%",
+    "description": "武魂本质属于阴暗或邪恶序列，对神圣能量极度畏惧，受到的光耀伤害增加 25%。"
+  },
+  {
+    "id": "res_slashing_small",
+    "name": "挥砍抗性 (小)",
+    "type": "resistance",
+    "value": "slashing +25%",
+    "description": "武魂表皮具备初步的耐切削韧性，能防止浅表创口扩大，减少 25% 的挥砍伤害。"
+  },
+  {
+    "id": "res_slashing_large",
+    "name": "挥砍抗性 (大)",
+    "type": "resistance",
+    "value": "slashing +50%",
+    "description": "武魂结构极其紧密，能够抵挡利刃的高速切向力，有效减少 50% 的挥砍伤害。"
+  },
+  {
+    "id": "weak_slashing",
+    "name": "挥砍属性弱点",
+    "type": "resistance",
+    "value": "slashing -25%",
+    "description": "武魂外皮极为脆弱或组织松散，利刃切过时会造成巨大的开放性创口，受到的挥砍伤害增加 25%。"
+  },
+  {
+    "id": "res_thunder_small",
+    "name": "雷鸣抗性 (小)",
+    "type": "resistance",
+    "value": "thunder +25%",
+    "description": "武魂内部具备基础的震荡吸收结构，能抵御普通声波冲击，减少 25% 的雷鸣/声波伤害。"
+  },
+  {
+    "id": "res_thunder_large",
+    "name": "雷鸣抗性 (大)",
+    "type": "resistance",
+    "value": "thunder +50%",
+    "description": "武魂能够有效屏蔽并传导声波震动，保护内脏不被爆震所伤，减少 50% 的雷鸣/声波伤害。"
+  },
+  {
+    "id": "weak_thunder",
+    "name": "雷鸣属性弱点",
+    "type": "resistance",
+    "value": "thunder -25%",
+    "description": "武魂内部器官对震荡极其敏感，高频声波会直接导致机能崩溃，受到的雷鸣/声波伤害增加 25%。"
+  },
+  {
+    "id": "psv_1775835452224",
+    "name": "移速提升(小)",
+    "description": "",
+    "type": "speed",
+    "value": "0"
+  },
+  {
+    "id": "high_freq_vibration",
+    "name": "高频振动",
+    "description": "刀身能够进行高频振动，使每一次物理攻击都附带强烈的声波共振，额外造成 1 点雷鸣/声波 (Thunder) 伤害。",
+    "type": "buff",
+    "value": "Thunder +1"
+  }
+]

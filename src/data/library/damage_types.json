@@ -21,8 +21,8 @@
         "description": "火系魂技、爆炸或高温魂力灼烧造成的热能伤害。"
     },
     {
-        "id": "soul_force",
-        "name": "魂力/力场 (Soul-Force)",
+        "id": "force",
+        "name": "力场 (Soul-Force)",
         "description": "纯粹的魂力爆发、冲击波或无属性魂力实体化造成的能量伤害。"
     },
     {
