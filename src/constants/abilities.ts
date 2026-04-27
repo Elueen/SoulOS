@@ -1,0 +1,45 @@
+export interface AbilityDefinition {
+  id: string;
+  name: string;
+  description: string;
+  sub_dimensions: string[];
+}
+
+export const ABILITIES_LIST: AbilityDefinition[] = [
+  {
+    id: "STR",
+    name: "力量",
+    description: "肉体爆发力与物理破坏权重。影响近战强攻系魂师的打击力度、格挡强度及负重能力。",
+    sub_dimensions: ["瞬时爆发", "持续角力", "物理破甲"]
+  },
+  {
+    id: "DEX",
+    name: "敏捷",
+    description: "身体协调性、反应速度与时空位移能力。影响先攻权、远程命中率及对范围魂技的闪避。",
+    sub_dimensions: ["位移时速", "肢体灵活性"]
+  },
+  {
+    id: "CON",
+    name: "体质",
+    description: "生命本源强度与抗逆性。决定魂环吸收的承载上限、抗毒/抗干扰能力及重伤后的存活率。",
+    sub_dimensions: ["生命成长", "毒素、疾病等抗性"]
+  },
+  {
+    id: "INT",
+    name: "智力",
+    description: "逻辑推演与武魂理论储备。影响自创魂技的开发效率、战场战术分析及对复杂能量阵法的解析。",
+    sub_dimensions: ["魂力成长", "魂技"]
+  },
+  {
+    id: "WIS",
+    name: "感知",
+    description: "精神力层级与位面谐振基础。决定对魂力波动的侦测范围、对幻术/精神攻击的抵抗力。",
+    sub_dimensions: ["精神力成长", "意志坚定度", "意志抗性"]
+  },
+  {
+    id: "CHA",
+    name: "魅力",
+    description: "武魂品质带来的血脉压制力与个人领袖气质。影响辅助系魂技的溢出增幅、魂兽好感度及高阶位对低阶位的精神压迫。",
+    sub_dimensions: ["社交说服", "领导力"]
+  }
+];

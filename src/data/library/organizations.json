@@ -1,0 +1,18 @@
+{
+  "organizations": [
+    {
+      "id": "ORG_BoundaryGate",
+      "name": "界门",
+      "description": "跨越位面的神秘组织，负责修正偏离的因果线，清理非法穿越者及违规神祇。其座右铭为：‘影中守望，万界无尘’。",
+      "rank": "Hidden",
+      "base": "未知地"
+    },
+    {
+      "id": "ORG_SpiritHall",
+      "name": "武魂殿",
+      "description": "斗罗位面最强大的魂师组织，掌握着觉醒武魂与封号斗罗的晋升路径。",
+      "rank": "Supreme",
+      "base": "武魂城"
+    }
+  ]
+}

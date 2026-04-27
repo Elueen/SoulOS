@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ITM_OldBambooHat",
+    "name": "破旧的斗笠",
+    "description": "一顶边缘已经磨损的斗笠，由特制的防侦测纤维编织。莫言在执行任务时常戴它遮蔽面容。",
+    "category": "Apparel",
+    "effect": "免疫‘灵觉’（WIS）低于 20 的角色的面部识别。"
+  },
+  {
+    "id": "ITM_GateOrder",
+    "name": "界门密令",
+    "description": "由‘界门’高层签发的黑色令牌，散发着微弱的时空波动。它是身份的象征，也是开启位面传送阵的钥匙。",
+    "category": "Quest",
+    "effect": "可感知 500 米内的‘异界变量’。"
+  },
+  {
+    "id": "ITM_knife",
+    "name": "小刀",
+    "description": "",
+    "category": "Apparel",
+    "effect": ""
+  }
+]

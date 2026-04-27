@@ -1,336 +1,336 @@
 [
   {
-    "id": "flesh",
+    "id": "TAG_flesh",
     "name": "血肉",
     "category": "substance",
     "description": "有机生命组织，易受切割伤害，具备生长与愈合潜力。"
   },
   {
-    "id": "bone",
+    "id": "TAG_bone",
     "name": "骨质",
     "category": "substance",
     "description": "坚硬的生物钙质，提供结构支撑，碎裂时可能产生尖锐断口。"
   },
   {
-    "id": "wood",
+    "id": "TAG_wood",
     "name": "木质",
     "category": "substance",
     "description": "植物性有机质，具备良好的韧性，易燃但抗震。"
   },
   {
-    "id": "stone",
+    "id": "TAG_stone",
     "name": "岩石",
     "category": "substance",
     "description": "无机矿物构造，极高硬度，重量感十足，耐火抗酸。"
   },
   {
-    "id": "steel",
+    "id": "TAG_steel",
     "name": "钢铁",
     "category": "substance",
     "description": "精炼金属，具备极高的物理防御力与传导性。"
   },
   {
-    "id": "water",
+    "id": "TAG_water",
     "name": "水流",
     "category": "substance",
     "description": "无定形物质，免疫物理钝击，具备强力的束缚与缓冲能力。"
   },
   {
-    "id": "ice",
+    "id": "TAG_ice",
     "name": "冰晶",
     "category": "substance",
     "description": "固态流体，硬度适中且极其湿滑，带有持续的寒冷判定。"
   },
   {
-    "id": "gas",
+    "id": "TAG_gas",
     "name": "烟雾",
     "category": "substance",
     "description": "完全弥散形态，无视物理碰撞，可影响视觉或通过呼吸道渗透。"
   },
   {
-    "id": "acid",
+    "id": "TAG_acid",
     "name": "酸蚀",
     "category": "energy",
     "description": "化学性腐蚀，对无机质与护甲有额外破坏加成。"
   },
   {
-    "id": "cold",
+    "id": "TAG_cold",
     "name": "寒冷",
     "category": "energy",
     "description": "降低分子热运动，减缓目标行动速度，严重时产生冻结。"
   },
   {
-    "id": "fire",
+    "id": "TAG_fire",
     "name": "火焰",
     "category": "energy",
     "description": "剧烈氧化反应，造成持续灼烧伤害，破坏植物类目标。"
   },
   {
-    "id": "force",
+    "id": "TAG_force",
     "name": "力场",
     "category": "energy",
     "description": "纯粹的动能或引力，无视大部分抗性，直接冲击物理实体。"
   },
   {
-    "id": "lightning",
+    "id": "TAG_lightning",
     "name": "闪电",
     "category": "energy",
     "description": "高能电荷释放，具备极速与麻痹效果，对金属目标有传导。"
   },
   {
-    "id": "necrotic",
+    "id": "TAG_necrotic",
     "name": "黯蚀",
     "category": "energy",
     "description": "生命力的逆转，通过腐败与凋零造成直接损伤。"
   },
   {
-    "id": "poison",
+    "id": "TAG_poison",
     "name": "毒素",
     "category": "energy",
     "description": "生物毒性渗透，导致持续的机能衰减或状态异常。"
   },
   {
-    "id": "psychic",
+    "id": "TAG_psychic",
     "name": "心灵",
     "category": "energy",
     "description": "精神冲击，直接作用于脑域，无视护甲，造成震慑或混乱。"
   },
   {
-    "id": "radiant",
+    "id": "TAG_radiant",
     "name": "光耀",
     "category": "energy",
     "description": "神圣或高频辐射，对不死类目标有毁灭性打击。"
   },
   {
-    "id": "thunder",
+    "id": "TAG_thunder",
     "name": "震荡",
     "category": "energy",
     "description": "高压声波冲击，造成范围内震慑与听觉干扰。"
   },
   {
-    "id": "strike",
+    "id": "TAG_strike",
     "name": "打击",
     "category": "behavior",
     "description": "钝性力量释放，倾向于击退目标或破坏内脏。"
   },
   {
-    "id": "pierce",
+    "id": "TAG_pierce",
     "name": "穿刺",
     "category": "behavior",
     "description": "点状力量集中，具备极高的护甲穿透力。"
   },
   {
-    "id": "slash",
+    "id": "TAG_slash",
     "name": "挥砍",
     "category": "behavior",
     "description": "线状锋芒输出，造成大面积创口与出血判定。"
   },
   {
-    "id": "entangle",
+    "id": "TAG_entangle",
     "name": "缠绕",
     "category": "behavior",
     "description": "利用柔韧性控制对手位移，使其陷入受控状态。"
   },
   {
-    "id": "shield",
+    "id": "TAG_shield",
     "name": "格挡",
     "category": "behavior",
     "description": "抵消来袭动能，将防御力转化为生存率。"
   },
   {
-    "id": "shoot",
+    "id": "TAG_shoot",
     "name": "远程",
     "category": "behavior",
     "description": "投射型攻击，延伸攻击半径，利用弹道压制对手。"
   },
   {
-    "id": "dash",
+    "id": "TAG_dash",
     "name": "突进",
     "category": "behavior",
     "description": "瞬间爆发速度，改变空间位置，规避攻击或突击敌人。"
   },
   {
-    "id": "heal",
+    "id": "TAG_heal",
     "name": "治愈",
     "category": "behavior",
     "description": "重构物质结构，恢复生命值或修补破损。"
   },
   {
-    "id": "feline",
+    "id": "TAG_feline",
     "name": "猫科",
     "category": "beast",
     "description": "敏捷型兽类，具备利爪、卓越的平衡感与爆发力。"
   },
   {
-    "id": "canine",
+    "id": "TAG_canine",
     "name": "犬科",
     "category": "beast",
     "description": "群体协作或耐力型兽类，具备强力咬合与嗅觉追踪。"
   },
   {
-    "id": "ursine",
+    "id": "TAG_ursine",
     "name": "熊类",
     "category": "beast",
     "description": "重装型兽类，高力量与高体质加成，具备震慑性打击。"
   },
   {
-    "id": "avian",
+    "id": "TAG_avian",
     "name": "禽类",
     "category": "beast",
     "description": "飞行生物，具备空域优势，利用俯冲与气流进行博弈。"
   },
   {
-    "id": "reptilian",
+    "id": "TAG_reptilian",
     "name": "爬行类",
     "category": "beast",
     "description": "冷血生物，具备坚韧表皮与蛰伏特性。"
   },
   {
-    "id": "serpentine",
+    "id": "TAG_serpentine",
     "name": "蛇类",
     "category": "beast",
     "description": "无足滑行，具备极高的缠绕力与毒素潜力。"
   },
   {
-    "id": "arachnid",
+    "id": "TAG_arachnid",
     "name": "节肢类",
     "category": "beast",
     "description": "多足构造，具备吐丝、毒刺或多维视觉。"
   },
   {
-    "id": "Wyvern",
+    "id": "TAG_Wyvern",
     "name": "亚龙类",
     "category": "beast",
     "description": "具备巨龙血脉的混种，极高的身体强度与元素吐息。"
   },
   {
-    "id": "Long",
+    "id": "TAG_Long",
     "name": "真龙",
     "category": "beast",
     "description": "位面顶级掠食者，全属性压制，掌控法则级能量。"
   },
   {
-    "id": "vine_plant",
+    "id": "TAG_vine_plant",
     "name": "藤蔓类",
     "category": "beast",
     "description": "柔韧性极强的植物，擅长控制与远程打击。"
   },
   {
-    "id": "tree_plant",
+    "id": "TAG_tree_plant",
     "name": "乔木类",
     "category": "beast",
     "description": "稳重、高大的植物，提供极强的防御与控制地基。"
   },
   {
-    "id": "flower_plant",
+    "id": "TAG_flower_plant",
     "name": "花卉类",
     "category": "beast",
     "description": "利用气味、花粉进行幻术或神经干预的辅助型植物。"
   },
   {
-    "id": "undead",
+    "id": "TAG_undead",
     "name": "不死类",
     "category": "beast",
     "description": "违背自然规律的复生者，免疫毒素与心灵伤害。"
   },
   {
-    "id": "sword",
+    "id": "TAG_sword",
     "name": "剑",
     "category": "apparatus",
     "description": "百兵之君，攻守平衡，具备刺与劈的双向特性。"
   },
   {
-    "id": "hammer",
+    "id": "TAG_hammer",
     "name": "锤",
     "category": "apparatus",
     "description": "重型钝器，忽视防御，对骨骼与建筑有毁灭加成。"
   },
   {
-    "id": "spear",
+    "id": "TAG_spear",
     "name": "枪",
     "category": "apparatus",
     "description": "长柄穿刺兵器，利用距离优势进行精准打击。"
   },
   {
-    "id": "shield_item",
+    "id": "TAG_shield_item",
     "name": "盾",
     "category": "apparatus",
     "description": "防御性器物，提供稳固掩体，可进行盾击。"
   },
   {
-    "id": "vessel",
+    "id": "TAG_vessel",
     "name": "容器",
     "category": "apparatus",
     "description": "具备承载与镇压逻辑，常用于封印或领域控制。"
   },
   {
-    "id": "book",
+    "id": "TAG_book",
     "name": "书",
     "category": "apparatus",
     "description": "知识与规则的载体，常用于法术增幅或纪录因果。"
   },
   {
-    "id": "needle",
+    "id": "TAG_needle",
     "name": "针",
     "category": "apparatus",
     "description": "极其微细的穿刺器，擅长针对穴位或经络进行点穴。"
   },
   {
-    "id": "claw",
+    "id": "TAG_claw",
     "name": "利爪",
     "category": "anatomy",
     "description": "近战撕裂器官，对应挥砍与出血判定。"
   },
   {
-    "id": "fang",
+    "id": "TAG_fang",
     "name": "尖牙",
     "category": "anatomy",
     "description": "咬合贯穿器官，可注入毒素或撕扯目标。"
   },
   {
-    "id": "wing",
+    "id": "TAG_wing",
     "name": "羽翼",
     "category": "anatomy",
     "description": "飞行与动力器官，亦可作为挥击面使用。"
   },
   {
-    "id": "tail",
+    "id": "TAG_tail",
     "name": "尾巴",
     "category": "anatomy",
     "description": "平衡与辅助攻击器官，具备极大的打击半径。"
   },
   {
-    "id": "horn",
+    "id": "TAG_horn",
     "name": "角",
     "category": "anatomy",
     "description": "冲撞与对决器官，代表力量与威严。"
   },
   {
-    "id": "root",
+    "id": "TAG_root",
     "name": "根系",
     "category": "anatomy",
     "description": "植物的能量吸收枢纽，决定地基的稳定性。"
   },
   {
-    "id": "leaf",
+    "id": "TAG_leaf",
     "name": "叶片",
     "category": "anatomy",
     "description": "植物的呼吸器官，在武魂化时常具备切削特性。"
   },
   {
-    "id": "edge",
+    "id": "TAG_edge",
     "name": "刃口",
     "category": "anatomy",
     "description": "器武魂的杀伤核心，决定切割的精度与强度。"
   },
   {
-    "id": "heart",
+    "id": "TAG_heart",
     "name": "心脏",
     "category": "anatomy",
     "description": "能量泵动中心，决定魂力的续航与上限。"
   },
   {
-    "id": "eye",
+    "id": "TAG_eye",
     "name": "眼睛",
     "category": "anatomy",
     "description": "由眼球及其辅助结构组成。眼球是视觉器官的主要部分，它具有折光成象和感光换能两种作用。眼的辅助部分有眼睑、结膜、泪器、眼肌及眼眶内筋膜和脂肪等，对眼球有保护、运动和支持作用。眼各部结构的完善，对眼完成视觉功能具有重要意义。"

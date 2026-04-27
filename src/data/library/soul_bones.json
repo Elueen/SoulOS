@@ -1,0 +1,20 @@
+{
+  "soul_bones": [
+    {
+      "id": "BON_wing_shadow_raven",
+      "name": "暗影鸦之翼",
+      "description": "产自万年暗影鸦，通体漆黑如玉。融合后可赋予魂师飞行的能力。",
+      "position": "External(Wings)",
+      "added_skill": "魂骨技：影翼斩",
+      "passive_bonus": "敏捷（DEX）属性成长权重 +5%"
+    },
+    {
+      "id": "BON_leftleg_golden_titan",
+      "name": "金刚泰坦之左腿骨",
+      "description": "产自五万年金刚泰坦巨猿，蕴含极其恐怖的大地之力。",
+      "position": "Left Leg",
+      "added_skill": "魂骨技：重力压制",
+      "passive_bonus": "力量（STR）+10，体质（CON）+5"
+    }
+  ]
+}

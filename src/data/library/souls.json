@@ -1,18 +1,18 @@
 [
   {
-    "id": "S0001",
-    "name": "暗鸦",
+    "id": "SOL_wpn_dawn_blade",
+    "name": "黎明之刃",
     "category": "Apparatus",
     "tags": [
-      "steel",
-      "sword",
-      "pierce",
-      "slash",
-      "thunder"
+      "TAG_steel",
+      "TAG_sword",
+      "TAG_pierce",
+      "TAG_slash",
+      "TAG_thunder"
     ],
     "description": "唐横刀。刀身笔直修长，色泽内敛如墨，不反任何天光。唯有在魂力催动下，刀刃才会发出一声低沉的律动鸣响。",
     "passives": [
-      "high_freq_vibration"
+      "PAS_high_freq_vibration"
     ],
     "true_form": {
       "name": "暗鸦真身",

@@ -1,0 +1,134 @@
+{
+  "id": "ACT_moli",
+  "name": "墨离",
+  "description": "‘界门 (The Boundary Gate)’所属的高级位面清洗者，代号‘影刃’。作为维持位面秩序的暗面守望者，墨离负责在暗影中抹除一切试图非法干扰世界线运行的‘异界变量’。他游走于规则的边界，虽看似玩世不恭、极度市侩，实则内心恪守着组织的至高铁律。在保护艾露恩的过程中，他展现出了超越职业准则的意志。",
+  "specs": {
+    "gender": "Male",
+    "race": "star_luo_empire",
+    "birthday": {
+      "day": 8,
+      "month": 4,
+      "year": 1102
+    },
+    "mbti": "ISTP",
+    "alignment": "Lawful Neutral",
+    "organization": "界门",
+    "traits": [
+      "Calm",
+      "Brave",
+      "Cynical"
+    ],
+    "souls": [
+      {
+        "soulId": "SOL_wpn_dawn_blade",
+        "soulRings": [
+          "purple",
+          "黄",
+          "紫",
+          "紫",
+          "黑",
+          "黑",
+          "黑"
+        ]
+      }
+    ]
+  },
+  "abilities": {
+    "STR": 20,
+    "DEX": 20,
+    "CON": 14,
+    "INT": 18,
+    "WIS": 15,
+    "CHA": 12,
+    "AC": 14
+  },
+  "traits_passives": [
+    "PAS_giant_might",
+    "PAS_res_acid_large",
+    "PAS_res_radiant_small"
+  ],
+  "growth": {
+    "level": 22,
+    "soulSkills": [
+      {
+        "order": 1,
+        "name": "影瞬",
+        "effect": "",
+        "skillId": "TECH_ShadowFlicker",
+        "description": "消耗魂力化作影子，瞬间移动至视线范围内的阴影处，并对路径或落点敌人发起突袭。"
+      },
+      {
+        "order": 2,
+        "name": "待解锁",
+        "effect": ""
+      },
+      {
+        "order": 3,
+        "name": "待解锁",
+        "effect": ""
+      },
+      {
+        "order": 4,
+        "name": "待解锁",
+        "effect": ""
+      },
+      {
+        "order": 5,
+        "name": "待解锁",
+        "effect": ""
+      },
+      {
+        "order": 6,
+        "name": "待解锁",
+        "effect": ""
+      },
+      {
+        "order": 7,
+        "name": "武魂真身：暗鸦掠影",
+        "effect": "化身为巨大的阴影鸦魂，获得‘虚化’状态，免疫 50% 物理伤害。"
+      },
+      {
+        "soulId": "SOL_wpn_dawn_blade",
+        "order": 6,
+        "skillId": "",
+        "name": "未命名魂技",
+        "description": "",
+        "year": 1145,
+        "color": "yellow",
+        "source": "",
+        "ability": "STR"
+      },
+      {
+        "soulId": "SOL_wpn_dawn_blade",
+        "order": 1,
+        "skillId": "TECH_ShadowFlicker",
+        "name": "影瞬",
+        "description": "消耗魂力化作影子，瞬间移动至视线范围内的阴影处，并对路径或落点敌人发起突袭。",
+        "ability": "STR",
+        "year": 1145,
+        "color": "yellow",
+        "source": ""
+      }
+    ],
+    "techniques": [
+      {
+        "name": "影瞬",
+        "description": "界门格斗术，瞬间消失在光影交界处。"
+      }
+    ],
+    "soul_bones": []
+  },
+  "memoryStream": [
+    {
+      "timestamp": -500,
+      "event": "在‘界门’宣誓，放弃世俗身份，成为位面秩序的清道夫。",
+      "impact": "性格变得愤世嫉俗且极其冷静。",
+      "isCore": true,
+      "type": "core"
+    }
+  ],
+  "inventory": [
+    "破旧的斗笠",
+    "界门密令"
+  ]
+}
